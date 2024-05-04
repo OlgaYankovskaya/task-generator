@@ -1,0 +1,132 @@
+{
+    "UI": {
+        "tasks": "Taches",
+        "generate": "Générer",
+        "noTasks": "Pas de taches",
+        "tabName": "Générateur de taches",
+        "download": "Telecharger"
+    },
+    "tasks": {
+        "correctVerb": [
+            {
+                "task": "1) Remplissez le blanc:",
+                "question": "Pour les Francofolies de la Rochelle, l'édition 2020 a pour objectif de \"______ le festival encore plus proche, plus convivial et plus humain\".",
+                "answer": "1) rendre    2) mettre   3) produire    4) redonner",
+                "correctAnswer": "rendre"
+            },
+            {
+                "task": "1) Remplissez le blanc:",
+                "question": "À l'époque où il faisait ses études à université, il ______ déjà à devenir riche.",
+                "answer": "1) décidait    2) tâchait    3) projetait    4) songeait",
+                "correctAnswer": "songeait"
+            },
+            {
+                "task": "1) Remplissez le blanc:",
+                "question": "Une haute pendule sonnerait chaque heure avec magnificence pour lui ______ le temps qui passe.",
+                "answer": "1) appeler    2) rappeler    3) présenter    4) suggérer",
+                "correctAnswer": "rappeler"
+            },
+            {
+                "task": "1) Remplissez le blanc:",
+                "question": "Toutes les feuilles se ____ à bouger, à se saluer, à se courber sur leur tige.",
+                "answer": "1) laissèrent    2) firent    3) finirent    4) mirent",
+                "correctAnswer": "mirent"
+            }
+        ],
+        "correctLetter": [
+            {
+                "task": "2) Ecrivez la lettre manquante:",
+                "question": "appar_nce",
+                "answer": "",
+                "correctAnswer": "e"
+            },
+            {
+                "task": "2) Ecrivez la lettre manquante:",
+                "question": "_ndulgence",
+                "answer": "",
+                "correctAnswer": "i"
+            },
+            {
+                "task": "2) Ecrivez la lettre manquante:",
+                "question": "ininfl_mmable",
+                "answer": "",
+                "correctAnswer": "a"
+            },
+            {
+                "task": "2) Ecrivez la lettre manquante:",
+                "question": "_hatton",
+                "answer": "",
+                "correctAnswer": "c"
+            }
+        ],
+        "verbConjugation": [
+            {
+                "task": "3) Conjuguez le verbe:",
+                "question": "Je _____________________ (VIVRE) à Paris depuis un an et je n’ai jamais vu un tel individualisme",
+                "answer": "",
+                "correctAnswer": "vis"
+            },
+            {
+                "task": "3) Conjuguez le verbe:",
+                "question": "Ici à Paris, je vois beaucoup de gens qui _______________ (AVOIR) beaucoup d’ « amis » et de connaissances",
+                "answer": "",
+                "correctAnswer": "ont"
+            },
+            {
+                "task": "3) Conjuguez le verbe:",
+                "question": "Apparement, elle ne __________________ (SE SENTIR) pas bien.",
+                "answer": "",
+                "correctAnswer": "se sent"
+            },
+            {
+                "task": "3) Conjuguez le verbe:",
+                "question": "J'ai voulu appeler le SAMU mais mon copain _________________ (DIRE) que c’était pas la peine!",
+                "answer": "",
+                "correctAnswer": "a dit"
+            }
+
+        ],
+        "other": [
+            {
+                "task": "",
+                "question": "4) Combien de groupes de verbes existent en français?",
+                "answer": "",
+                "correctAnswer": "3"
+            },
+            {
+                "task": "",
+                "question": "4) Le verbe être est un verbe irrégulier. Vrai ou Faux ?",
+                "answer": " ",
+                "correctAnswer": "Vrai"
+            },
+            {
+                "task": "",
+                "question": "4) Combien de types d'articles existent en français?",
+                "answer": "",
+                "correctAnswer": "3"
+            },
+            {
+                "task": "",
+                "question": "4) Le  féminin l'emporte sur le masculin dans la langue française. Vrai ou Faux ?",
+                "answer": " ",
+                "correctAnswer": "Faux"
+            }
+        ],
+        "wordTransformation": [
+            {
+                "task": "5) Transformer un mot pour le rendre grammaticalement approprié",
+                "question": "Tout en restant principalement rurale, au fond de la baie du même nom classée réserve __________________(NATUREL)",
+                "answer": " ",
+                "correctAnswer": "naturelle"
+            }
+        ],
+        "correctNoun": [
+            {
+                "task": "6) Remplissez le blanc:",
+                "question": "Ne vous affligez point, mon maître; vous n'avez qu'à me donner un sac, et mefaire faire une ______ de Bottes pouraller dans les broussailles, et vous verrez que vous n'êtespas si mal partagé que vous croyez.",
+                "answer": "1) paire  2) complet  3) tiers  4) boîte ",
+                "correctAnswer": "paire"
+            }
+        ]
+    }
+}

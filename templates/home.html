@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel= "stylesheet" type= "text/css" href= "{{ url_for('static',filename='styles/style.css') }}">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ui.tabName}}</title>
+</head>
+<body>
+    {% set linkStart = "https://flagcdn.com/h60/" %}
+    {% set linkEnd = ".png"%}
+    <div class="header" style="width: 100%; height: 20%;">
+        <div class="siteName">{{ui.tabName}}</div>
+        <form  class="languageButtonsContainer" action="/" method="post">
+            {% for i in range(languages|length) %}
+                {% set linkLang = languages[i]|lower %}
+                <input
+                    class="languageButton"
+                    type="submit"
+                    name="action"
+                    style="background-image: url({{linkStart+linkLang+linkEnd}});"
+                    value={{languages[i]}}
+                >
+            {% endfor %}
+        </form>
+    </div>
+    <h1>{{ui.tasks}}</h1>
+    {% if isLoaded %}
+        <div style="width: 60%;">
+            <p>{{tasks.correctVerb.task}}</p>
+            <p>{{tasks.correctVerb.question}}</p>
+            <p>{{tasks.correctVerb.answer}}</p>
+            <p>{{tasks.correctLetter.task}}</p>
+            <p>{{tasks.correctLetter.question}}</p>
+            <p>{{tasks.correctLetter.answer}}</p>
+            <p>{{tasks.verbConjugation.task}}</p>
+            <p>{{tasks.verbConjugation.question}}</p>
+            <p>{{tasks.verbConjugation.answer}}</p>
+            <p>{{tasks.other.task}}</p>
+            <p>{{tasks.other.question}}</p>
+            <p>{{tasks.other.answer}}</p>
+            <p>{{tasks.wordTransformation.task}}</p>
+            <p>{{tasks.wordTransformation.question}}</p>
+            <p>{{tasks.wordTransformation.answer}}</p>
+            <p>{{tasks.correctNoun.task}}</p>
+            <p>{{tasks.correctNoun.question}}</p>
+            <p>{{tasks.correctNoun.answer}}</p>
+        </div>
+    {% else %}
+        <p>{{ui.noTasks}}</p>
+    {% endif %}
+    <form method="post">
+        <input class="generateButton" type="submit" name="action" value={{ui.generate}}>
+    </form>
+    {% if isLoaded %}
+        <a class="downloadButton" href={{url_for("downloadFile")}}>{{ui.download}}</a>
+    {% endif %}
+</body>
+</html>

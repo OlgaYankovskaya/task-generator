@@ -1,0 +1,179 @@
+{
+    "UI": {
+        "tasks": "Tasks",
+        "generate": "Generate",
+        "noTasks": "No tasks",
+        "tabName": "Tasks generator",
+        "download": "Download"
+    },
+    "tasks": {
+        "correctVerb": [
+            {
+                "task": "1) Fill in the blank:",
+                "question": "They ______ at the mall only to discover that thousands of people were already covering every inch of the pavements with sleeping bags, blankets and tents. ",
+                "answer": "1) went\n2) reached\n3) arrived\n4) came",
+                "correctAnswer": "arrived"
+            },
+            {
+                "task": "1) Fill in the blank:",
+                "question": "Stan ______ his breakfast to be on the table by the time he walked into the kitchen. ",
+                "answer": "1) managed\n2) waited\n3) expected\n4) made",
+                "correctAnswer": "expected"
+            },
+            {
+                "task": "1) Fill in the blank:",
+                "question": "He ______ a bath four times a year on important holidays. No one was going to accuse Stan of wasting his hard earned cash on soap.",
+                "answer": "1) did\n2) took\n3) held\n4) put",
+                "correctAnswer": "took"
+            },
+            {
+                "task": "1) Fill in the blank:",
+                "question": "He ______ Dotty of her elder brother.",
+                "answer": "1) remembered\n2) reminded\n3) reviewed\n4) revised",
+                "correctAnswer": "reminded"
+            }
+        ],
+        "correctLetter": [
+            {
+                "task": "2) Insert the missing letter",
+                "question": "re_ect",
+                "answer": "",
+                "correctAnswer": "j"
+            },
+            {
+                "task": "2) Insert the missing letter",
+                "question": "in_ection",
+                "answer": "",
+                "correctAnswer": "f"
+            },
+            {
+                "task": "2) Insert the missing letter",
+                "question": "porri_e",
+                "answer": "",
+                "correctAnswer": "g"
+            },
+            {
+                "task":"2) Insert the missing letter",
+                "question": "ele_hant",
+                "answer": "",
+                "correctAnswer": "p"
+            }
+        ],
+        "verbConjugation": [
+            {
+                "task": "3) Put the verb in the correct form",
+                "question": "Canberra __________________(CHOOSE) as the capital because Sydney and Melbourne could not stop arguing which city should be the capital of Australia.",
+                "answer": "",
+                "correctAnswer": "has been chosen/was chosen"
+            },
+            {
+                "task": "3) Put the verb in the correct form",
+                "question": "80 % of Australians believe Australia has a strong culture and identity characterised by honesty, sports and multiculturalism based on research __________________(ORGANISE) by the Australia Day Council of NSW in 2008.",
+                "answer": "",
+                "correctAnswer": "organised"
+            },
+            {
+                "task": "3) Put the verb in the correct form",
+                "question": " He ________(SEE) a goat feeding on grass on top of a high cliff. The wolf wished to get the goat to climb down from the rock and into his grasp and he called out to her.",
+                "answer": "",
+                "correctAnswer": "saw"
+            },
+            {
+                "task":"3) Put the verb in the correct form",
+                "question": "But the goat knew too well of the wolf’s intent. “You __________________ (NOT CARE)if I eat good grass or bad.",
+                "answer": "",
+                "correctAnswer": "do not care"
+            }
+        ],
+        "other": [
+            {
+                "task": "4) Answer the question",
+                "question": "Which celebrities would you like to be if you were famous? ",
+                "answer": "",
+                "correctAnswer": ""
+            },
+            {
+                "task": "4) Answer the question",
+                "question": "What would you buy first if you received $1 million tomorrow? ",
+                "answer":"",
+                "correctAnswer":""
+            },
+            {
+                "task":"4) Answer the question",
+                "question": "Are you a big spender? What things do you buy more often than others?",
+                "answer":"",
+                "correctAnswer":""
+            },
+            {
+                "task": "4) Answer the question",
+                "question": "What meal of the day do you like the most: breakfast, lunch, dinner, or supper? And why? ",
+                "answer":"",
+                "correctAnswer":""
+            }
+        ],
+        "wordTransformation": [
+            {
+                "task": "5) Transform a word to make it grammatically appropriate",
+                "question": "Everybody knows Walt Disney, a person who invented many cartoon characters such as Donald Duck and Pluto. But it's Mickey Mouse that __________________(LOVE) by children all over the world.",
+                "answer": "",
+                "correctAnswer": "is loved"
+            },
+            {
+                "task":"5) Transform a word to make it grammatically appropriate",
+                "question": "However, few people know about the following fact. The funny thing is that Walt Disney, its creator, had a strong phobia – he was very much afraid of __________________(MOUSE)!",
+                "answer": "",
+                "correctAnswer": "mice"
+            },
+            {
+                "task":"5) Transform a word to make it grammatically appropriate",
+                "question": "Everybody began asking __________________(THEY) to play together, so they agreed.",
+                "answer": "",
+                "correctAnswer": "them"
+            },
+            {
+                "task":"5) Transform a word to make it grammatically appropriate",
+                "question":"Don't forget that nearby is the ancient and __________________(MYSTERY) Stonehenge, a circle of enormous rocks on the edge of the Salisbury Plain.",
+                "answer":"",
+                "correctAnswer": "mysterious"
+            },
+            {
+                "task":"5) Transform a word to make it grammatically appropriate",
+                "question": "How would you like to go to school on Saturdays? If you lived in Japan, that's just where you _____________(BE) each Saturday morning. Japanese students attend classes five and a half days a week. The half day is on Saturday.",
+                "answer":"",
+                "correctAnswer": "would be"
+            },
+            {
+                "task":"5) Transform a word to make it grammatically appropriate",
+                "question":"It is also interesting to know that the Japanese school year is one of the ______________(LONG) in the world - over 240 days. It begins in the month of April.",
+                "answer":"",
+                "correctAnswer": "longest"
+            }
+        ],
+        "correctNoun": [
+            {
+                "task": "6) Fill in the blank:",
+                "question": "It is the kind of dust that gets into the throat and between the _________ of bare brown feet.",
+                "answer": "1) fingers    2) thumbs    3) toes    4) pinkies",
+                "correctAnswer":"pinkies" 
+            },
+            {
+                "task": "6) Fill in the blank:",
+                "question": " Then Daniel met Rachel, who had arrived a year after them, and fell in love with her at first ______.",
+                "answer": "1) view   2) sight  3) look 4) glimpse",
+                "correctAnswer": "sight"
+            },
+            {
+                "task": "6) Fill in the blank:",
+                "question": "I loved the half of the novel, which was told from his point of _______",
+                "answer": "1) sight  2) opinion  3)view  4) mind",
+                "correctAnswer": "view"
+            },
+            {
+                "task": "6) Fill in the blank:",
+                "question": "I grew up on Third Avenue in midtown Manhattan during the 1950s-60s where family life was centred around old ______ of flats and small stores.",
+                "answer": "1) blocks  2) houses  3) groups  4) sets ",
+                "correctAnswer": "blocks"
+            }
+        ]
+    }
+}

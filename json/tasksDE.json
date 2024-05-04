@@ -1,0 +1,107 @@
+{
+    "UI":{
+        "tasks": "Aufgaben",
+        "generate": "Generieren",
+        "noTasks": "keine Aufgaben",
+        "tabName": "Aufgabengenerator",
+        "download": "Herunterladen"
+    },
+    "tasks": {
+        "correctVerb": [
+            {
+                "task": "1) Fülle die Lücke aus:",
+                "question": "Als Wissenschaftler der Harvard University vor wenigen Monaten ihre Ergebnisse präsentierten, ______ die Öffentlichkeit nicht schlecht.",
+                "answer": "1) paukte  2) staunte  3)  behauptete  4)  traute",
+                "correctAnswer": "staunte"
+            },
+            {
+                "task":"1) Fülle die Lücke aus:",
+                "question": "Die Landung ______ man kaum: der Pilot ist ein As!",
+                "answer": "1) besichtigt  2) merkt  3) notiert  4) trennt",
+                "correctAnswer": "merkt"
+            }
+        ],
+        "correctLetter": [
+            {
+                "task": "2) Fügen Sie den fehlenden Buchstaben ein",
+                "question": "Fros_h",
+                "answer": " ",
+                "correctAnswer": "c"
+            },
+            {
+                "task":"2) Fügen Sie den fehlenden Buchstaben ein",
+                "question": "Frü_ling",
+                "answer": " ",
+                "correctAnswer": "h"
+            }
+        ],
+        "verbConjugation": [
+            {
+                "task": "3) Setze das Verb in die korrekte Form",
+                "question": "Neben geistlichem Beistand macht sie sich in diesen Ländern auch durch humanitäre Hilfe bei der Bevölkerung beliebt. Wenn der Papst durch Afrika reist, begrüßen ihn die ______(GLAUBEN) dort mit großer Freude.",
+                "answer": " ",
+                "correctAnswer": "glauben"
+            },
+            {
+                "task": "3) Setze das Verb in die korrekte Form",
+                "question": "Das ist allerdings nur in Großstädten möglich. In Hannover ___________(SPIELEN) man beispielweise „Steinzeit“.",
+                "answer": " ",
+                "correctAnswer": "spielt"
+            }
+        ],
+        "other": [
+            {
+                "task": "4) Beantworte die Frage",
+                "question": "Bist du verheiratet? Aus wieviel Personen besteht deine Familie?",
+                "answer": " ",
+                "correctAnswer": " "
+            },
+            {
+                "task":"4) Beantworte die Frage",
+                "question": "Welches Buch, das Sie vor kurzem gelesen haben, können Sie mir empfehlen?",
+                "answer": " ",
+                "correctAnswer": " "
+            },
+            {
+                "task":"4) Beantworte die Frage",
+                "question": "Ist Graffiti auch Kunst? Was halten Sie davon?",
+                "answer":" ",
+                "correctAnswer":" "
+            },
+            {
+                "task":"4) Beantworte die Frage",
+                "question":"Haben Sie ein Lieblingszimmer in Ihrer Wohnung?",
+                "answer":" ",
+                "correctAnswer":" "
+            },
+            {
+                "task":"4) Beantworte die Frage",
+                "question":"Ich will in meinem Haus eine gemütliche Atmosphäre schaffen. Welche Tipps können Sie mir geben?",
+                "answer":" ",
+                "correctAnswer":" "
+            }
+        ],
+        "wordTransformation": [
+            {
+                "task": "5) Verwandeln Sie ein Wort, um es grammatikalisch angemessen zu machen",
+                "question": "Ausgedehnte Wӓlder und weite Wiesenflӓchen, romantische Tӓler und Schluchten machen den Thüringer Wald zu einem attraktiven (WANDERN)____________- und Wintersportgebiet",
+                "answer": " ",
+                "correctAnswer": "Wander"
+            },
+            {
+                "task":"5) Verwandeln Sie ein Wort, um es grammatikalisch angemessen zu machen",
+                "question": "In der gesamten Zeit erwirtschaftet Köln nach eigenen Angaben 330 Millionen Euro. Daraus fließen rund acht Millionen Euro in die Stadtkassen zurück. 1,5 Millionen __________________(BESUCHEN) pilgern jedes Jahr an Karneval nach Köln.",
+                "answer":" ",
+                "correctAnswer": "Besucher"
+            }
+        ],
+        "correctNoun": [
+            {
+                "task":"6) Fülle die Lücke aus:",
+                "question": "In den nächsten Jahren gab es dann viele Lieder über die Probleme und ______ nach der Wende, zum Beispiel den Scorpions-Song “Wind Of Change” von 1991.",
+                "answer": "1) Aufnahmen  2) Auftritte  3) Aufgaben 4) Aufzüge ",
+                "correctAnswer": "Aufgaben"
+            }
+        ]
+    }
+}

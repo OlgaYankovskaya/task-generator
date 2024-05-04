@@ -1,0 +1,99 @@
+body {
+    display: flex;
+    width: 100vw;
+    min-height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    margin: 0px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+a {
+    margin-top: 20px;
+    font-size: 20px;
+}
+.languageButtonsContainer {
+    display: flex;
+    flex-direction: row;
+    margin-right: 32px;
+    column-gap: 20px;
+    padding: 14px;
+    background-color: #7D033E;
+    border-radius: 20px;
+}
+.languageButton {
+    width: 90px;
+    height: 60px;
+    font-size: 20px;
+    border-radius: 10px;
+    outline: 0px;
+    background-repeat: no-repeat;
+    background-size: auto;
+    border: 0px;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+.languageButton:hover {
+    cursor: pointer;
+    scale: 1.1;
+}
+
+.header {
+    display: flex;
+    width: 100%;
+    min-height: 128px;
+    align-items: center;
+    padding: 0px 20px 0px 20px;
+    justify-content: space-between;
+    background-color: #E23086;
+}
+
+.siteName {
+    margin-left: 32px;
+    text-align: left;
+    font-size: 2rem;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+
+.generateButton {
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    border-radius: 20px;
+    margin-bottom: 16px;
+    outline: 0px;
+    background-color: #E23086;
+    border: 0px;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
+.generateButton:hover {
+    cursor: pointer;
+    scale: 1.1;
+}
+.downloadButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    border-radius: 20px;
+    margin-bottom: 16px;
+    outline: 0px;
+    background-color: #E23086;
+    color: white;
+    text-decoration: none;
+    text-shadow: 2px 2px 2px black;
+}
+.downloadButton:hover {
+    cursor: pointer;
+    scale: 1.1;
+}
